@@ -1,1 +1,1 @@
-"# udacity_project4" 
+"# NLP Article Project - Amjad Hamidi" 
